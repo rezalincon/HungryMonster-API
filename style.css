@@ -1,0 +1,16 @@
+.displayFood{
+    float: left;
+    width:30%;
+    padding: 30px;
+    text-align: center;
+    
+}
+
+.fimg{
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+}
+.fname{
+    font-weight: bold;
+}
